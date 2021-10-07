@@ -4,6 +4,6 @@ import java.util.Set;
 
 public class BookGenre extends BaseEntity {
 
-    private Set<Genres> genres;
+    private Set<Genre> genres;
 
 }
